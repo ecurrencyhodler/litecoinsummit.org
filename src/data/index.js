@@ -331,6 +331,12 @@ export const sponsors = {
       site: "https://www.reactionav.com",
       type: "Platinum"
     },
+    {
+      logo: "https://i.imgur.com/uiDlrG0.jpeg",
+      name: "Innosilicon",
+      site: "http://www.innosilicon.com/",
+      type: "Platinum"
+    },
   ],
   gold: [
     {
