@@ -399,5 +399,11 @@ export const sponsors = {
       site: "https://twitter.com/HODLFUEL",
       type: "Digital"
     }
+    {
+      logo: "https://i.imgur.com/6Al4UKP.jpg",
+      name: "Bitcoin Superstore",
+      site: "https://bitcoinsuperstore.us/",
+      type: "Bronze"
+    },
   ]
 }
